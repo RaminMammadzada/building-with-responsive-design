@@ -24,13 +24,6 @@ This is also part of the Odin project curriculum ["BUILDING WITH RESPONSIVE DESI
 - Stickler,
 - Font-Awesome
 
-
-## Built With
-
-- HTML
-- CSS
-- Flexbox and Grid
-
 ## Live Demo
 
 [Live Demo Link](https://alexoid1.github.io/Building-with-Responsive-Design/)
