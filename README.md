@@ -5,12 +5,31 @@
 
 ![screenshot](./images/screencapture2.png)
 
-Additional description about the project and its features.
+This project is a prototype based on the https://thenextweb.com/ page.
+
+Here are the objectives for this project:
+* Create a responsive design website
+	* We created two different breakpoints to achieve this; one at 1024px and the other at 768px screen width
+* Use HTML semantics
+	* To achieve this we divided the page in different sections with articles within them
+* Align elements using float, grid and flex in several points
+
+This is also part of the Odin project curriculum ["BUILDING WITH RESPONSIVE DESIGN"](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design)
 
 ## Built With
 
-- HTML,
+- Html,
 - CSS,
+- Linter,
+- Stickler,
+- Font-Awesome
+
+
+## Built With
+
+- HTML
+- CSS
+- Flexbox and Grid
 
 ## Live Demo
 
@@ -19,26 +38,13 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**Navigation bar**
-- Go to [the next web ](https://thenextweb.com/) and have a look around. The form isn’t exceptionally complicat
-This project consists set responsivity in every element on the project[The next web](https://thenextweb.com/) website
-We have a cloned webpage built with following features:
+### Run locally
 
-In this project:
-- Used float, flex and grid.
-- Used 3 different css files to set responsivity.
-- Resposivity on every Element of the project
-- HTML and CSS.
+To use it locally by cloning this project with the following command on a terminal:
 
+```git clone https://github.com/RaminMammadzada/building-with-responsive-design.git```
 
-To get a local copy  and to set it up and running follow these simple example steps.
-
-### Prerequisites
-
-- Browser
-- Internet
-
-- Download the code from repository (https://github.com/Alexoid1/Building-with-Responsive-Design) and double click the index.html file
+After that, cd to the responsive-design folder and open the index.html file in your browser, play with the screen sizes to see how it changes responsiveness
 
 
 ## Authors
